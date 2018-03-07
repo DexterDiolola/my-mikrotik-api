@@ -2,7 +2,7 @@
 	$server = 'localhost';
 	$username = 'root';
 	$pass = '';
-	$db = 'persons';
+	$db = 'wireless_scans';
 
 
 	$conn = mysqli_connect($server, $username, $pass, $db);
