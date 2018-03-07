@@ -1,6 +1,7 @@
 <?php
 
 require('mikrotik-api.php');
+require('connect.php');
 
 $API = new RouterosAPI();
 
